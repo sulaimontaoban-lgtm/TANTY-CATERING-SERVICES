@@ -1,0 +1,33 @@
+.about{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(images/Rectangle\ 53.png);
+    height: 60vh;
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+@media(max-width: 1000px){
+    .designed{
+       flex-direction: column !important;
+    }
+}
+@media(max-width: 1000px){
+    .our{
+       width: 100% !important;
+    }
+}
+.need{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(images/Rectangle\ 53.png);
+    margin-top: 100px;
+    height: 65vh;
+    display: flex;
+    background-repeat: no-repeat;
+    justify-content: center;
+}
+.cate{
+    margin-top: 200px;
+}
+@media(max-width: 1000px){
+    .shaolin{
+       width: 100% !important;
+    }
+}

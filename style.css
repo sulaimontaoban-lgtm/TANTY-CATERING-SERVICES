@@ -1,0 +1,480 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.tanty{
+    background-color: #ffde59;
+   
+}
+.nav-link{
+a{
+    font-family: playfair display;
+    
+}
+}
+.button{
+    font-size: 18px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 10px;
+}
+
+.banner{
+    background-image: url(images/1543\ 1\ copy.png);
+    background-repeat: no-repeat;
+}
+.event{
+    font-family: Copperplate Gothic Bold;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 60px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+.banner-one{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)) ,url('images/1543\ 1\ \(1\).png');
+    height: 62vh;
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.flawless{
+    padding-bottom: 20px;
+}
+.banner-two{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)) ,url(images/1543\ 1\ copy.png);
+    height: 62vh;
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+.banner-three{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(images/wedd\ pics.png);
+   height: 62vh;
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.poca{
+    background-image: url(images/Rectangle\ 18.png);
+}
+
+
+
+
+.ex{
+    width: 743px;
+    margin-left: 300px;
+    font-family: Copperplate Gothic Bold;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 30px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+
+
+}
+.aboutt{
+    button{
+        background-color: #ffde59;
+    }
+    button:hover{
+        background-color: transparent;
+        border: 1px solid black;
+        color: black;
+    }
+}
+.vec{
+
+    height: 24;
+    top: 1776px;
+    text-align: center;
+}
+ .peat{
+    width: 400px;
+}
+
+.pate{
+    padding-left: 210px;
+    margin-top: -110px;
+    height: fit-content;
+    
+}
+/* @media(max-width: 360px){
+    .pate{
+       margin-left: -32px;
+       margin-top: -120px;
+    }
+} */
+.reat{
+   padding-left: 279px;
+   margin-bottom: -98px;
+}
+ .file{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.ttt{
+    background-color: #ffde59;
+}
+
+@media(min-width:1000px){
+   .bad {
+    padding-right: 70px !important;
+    padding-left: 50px !important;
+    }
+    .filet{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+}
+
+
+.gg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-bottom: 20px;
+}
+.hh{
+    background-color: white;
+    color: black;
+}
+.ll{
+    background-color: #ffde59;
+    padding: 15px 100px 15px 100px;
+    padding-top: 100px;
+}
+@media(max-width: 1000px){
+    .ll{
+       padding-left: 15px
+    }
+    .filet{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+}
+
+.oo{
+    margin-top: 1000px;
+}
+.uu{
+    margin-left: 40px;
+}
+
+.service{
+    display: flex;
+    justify-content: space-between;
+}
+.test-up{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+}
+.whalaproblemteacher{
+    background-color: #decb7d;
+    border-radius: 10px;
+}
+.cut{
+    
+    flex-direction: row;
+}
+.book{
+    font-size: 30px;
+    margin-top: 50px;
+}
+
+.trip{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(images/Rectangle\ 44.png);
+    background-repeat: no-repeat;
+    height: 79vh;
+    width: 100%;
+    padding-right: 70px;
+}
+.boat{
+    margin-top: 350px;
+
+
+
+}
+.need{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(images/Rectangle\ 53.png);
+    margin-top: 100px;
+    height: 60vh;
+    display: flex;
+    background-repeat: no-repeat;
+    justify-content: center;
+}
+.neeed{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(images/Rectangle\ 53.png);
+    height: 60vh;
+    display: flex;
+    background-repeat: no-repeat;
+    justify-content: center;
+}
+
+@media(max-width: 1000px){
+    .trip{
+       height: 90vh;
+       margin-bottom: 20px;
+    }
+}
+@media(max-width: 1000px){
+    .july{
+       gap: 50px;
+    }
+}
+@media(max-width: 1000px){
+    .need{
+       height: 70vh;
+    }
+}
+@media(max-width: 1000px){
+    .neeed{
+       height: 70vh;
+    }
+}
+@media(max-width: 1000px){
+    .loti{
+       gap: 50px !important;
+    }
+}
+
+.cate{
+    margin-top: 200px;
+}
+.footer{
+    background-color: #ffde59;
+   
+}
+/* @media(max-width: 1024px){
+    .footer{
+       height: 82vh !important;
+    }
+}
+@media(max-width: 1024px){
+    .need{
+       height: 30vh !important;
+    }
+} */
+.address{
+    margin-left: 25px;
+}
+.qq{
+    margin-top: 30px;
+}
+.enjoy{
+    background-color: whitesmoke;
+    padding-bottom: 0.05px;
+}
+.ban{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(images/2151232213\ 1.png);
+    height: 60vh;
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.our-service{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(images/2151232213\ 11.png);
+    height: 60vh;
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.see{
+    margin-top: 70px;
+}
+.dish{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+@media(max-width: 500px){
+    .dish{
+       flex-direction: column;
+    }
+}
+
+@media(max-width: 1000px){
+    .reat{
+       display: none;
+    }
+}
+@media(max-width: 1000px){
+    .recta{
+       width: 100% !important;
+    }
+}
+@media(max-width: 1000px){
+    .designed{
+       flex-direction: column !important;
+       padding-left: 15px;
+    }
+}
+@media(max-width: 1000px){
+    .our{
+       width: 90% !important;
+
+    }
+}
+.contact{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(images/2151232213\ 111.png);
+    height: 60vh;
+    display: flex;
+    background-repeat: no-repeat; 
+    background-size: cover;
+}
+.touch{
+    background-color: whitesmoke;
+}
+@media(max-width: 1000px){
+    .touch{
+       width: 100% !important;
+       
+    }
+}
+@media(max-width: 1000px){
+    .hot{
+       flex-direction: column !important;
+    }
+}
+@media(max-width: 1000px){
+    .rated{
+       flex-direction: column !important;
+
+    }
+}
+@media(max-width: 1000px){
+    .relax{
+       gap: 50px !important;
+    
+
+    }
+}
+@media(max-width: 1000px){
+    .tao{
+       gap: 20px !important;
+    
+
+    }
+}
+@media(max-width: 1000px){
+    .rate{
+       width: 100% !important;
+    }
+}
+@media(max-width: 1000px){
+    .shaolin{
+       width: 100% !important;
+    }
+}
+@media(max-width: 1000px){
+    .abtic{
+       display: none;
+    }
+}
+
+@media(max-width: 1000px){
+    .vibes{
+       flex-direction: column-reverse;
+    }
+}
+
+
+
+.most{
+    margin-top: 100px;
+}
+.shaolin{
+    .btnss{
+        background-color: #ffde59;
+        border-radius: 20px;
+    }
+   .btnss:hover{
+        background-color: green;
+        color: white;
+    }
+}
+.mostly{
+    margin-top: 80px;
+}
+.about{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(images/Rectangle\ 53.png);
+    height: 60vh;
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.reati{
+   padding-left: 180px;
+   margin-top: -90px;
+   width: 100%;
+}
+.CUTLERIES{
+    background-image: url(images/Rectangle\ 18.png);
+}
+@media(max-width: 1000px){
+    .rom{
+       gap: 150px;
+    }
+}
+@media(max-width: 1000px){
+    .exced{
+       gap: 50px !important;
+       
+    }
+}
+@media(max-width: 1000px){
+    .about{
+       margin-left: -200px;
+    }
+}
+@media(max-width: 1000px){
+    .aboutt{
+       margin-left: -200px;
+    }
+}
+@media(max-width: 1000px){
+    .contact{
+       margin-left: -200px;
+    }
+}
+@media(max-width: 1000px){
+    .ban{
+       margin-left: -200px;
+    }
+}
+@media(max-width: 1000px){
+    .our-service{
+       margin-left: -200px;
+    }
+}
+
+
+
+
+
+
